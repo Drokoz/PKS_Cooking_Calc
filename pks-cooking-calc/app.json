@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "pks-cooking-calc",
+    "slug": "pks-cooking-calc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

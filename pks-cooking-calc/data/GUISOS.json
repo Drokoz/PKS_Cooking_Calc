@@ -1,0 +1,365 @@
+[
+  {
+    "imagen": "",
+    "nombreES": "Nombre ",
+    "nombreEN": "Nombre ",
+    "descripcion": "Descripción",
+    "poder": "Poder",
+    "receta": "Receta"
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1000.png",
+    "nombreES": "Curri Mixto",
+    "nombreEN": "Mixed Curry",
+    "descripcion": "Plato genérico de categoría curri.",
+    "poder": "Suma de Poder de los Ingredientes.",
+    "receta": "Combinación insuficiente."
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1001_1.png",
+    "nombreES": "Curri de Manzana Selecta",
+    "nombreEN": "Fancy Apple Curry",
+    "descripcion": "Curri sencillo en el que destaca el dulzor natural de la manzana.",
+    "poder": {
+      "1": 668,
+      "30": 1075,
+      "10": 788,
+      "40": 1309,
+      "20": 902,
+      "55": 1810
+    },
+    "puchero": 7,
+    "receta": { "1": 7 }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1010.png",
+    "nombreES": "Sopa Cremosa",
+    "nombreEN": "Simple Chowder",
+    "descripcion": "Crema sencilla en la que destaca el sabor de la leche.",
+    "poder": {
+      "1": 727,
+      "30": 1170,
+      "10": 858,
+      "40": 1425,
+      "20": 981,
+      "55": 1970
+    },
+    "puchero": 7,
+    "receta": { "2": 7 }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1012.png",
+    "nombreES": "Curri Meloso",
+    "nombreEN": "Mild Honey Curry",
+    "descripcion": "Una generosa cantidad de miel hace de este curri un favorito entre los niños.",
+    "poder": {
+      "1": 749,
+      "30": 1206,
+      "10": 884,
+      "40": 1468,
+      "20": 1011,
+      "55": 2030
+    },
+    "puchero": 7,
+    "receta": {
+      "4": 7
+    }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1011_0.png",
+    "nombreES": "Curri de Hamburguesa Vegetariana",
+    "nombreEN": "Beanburger Curry",
+    "descripcion": "Las hamburguesas de origen vegetal son las estrellas indiscutibles de este curri.",
+    "poder": {
+      "1": 764,
+      "30": 1230,
+      "10": 902,
+      "40": 1497,
+      "20": 1031,
+      "55": 2070
+    },
+    "puchero": 7,
+    "receta": {
+      "5": 7
+    }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1008_0.png",
+    "nombreES": "Curri de Hamburguesa con Queso",
+    "nombreEN": "Hearty Cheeseburger Curry",
+    "descripcion": "Un plato tan enorme que dejaría anonadado hasta a un Snorlax.",
+    "poder": {
+      "1": 1785,
+      "30": 2874,
+      "10": 2106,
+      "40": 3499,
+      "20": 2410,
+      "55": 4837
+    },
+    "puchero": 16,
+    "receta": {
+      "2": 8,
+      "4": 8
+    }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1014_1.png",
+    "nombreES": "Curri con Escalope \"Sequía\"",
+    "nombreEN": "Drought Katsu Curry",
+    "descripcion": "El brillo del rebozado recién frito hace la boca agua solo con verlo.",
+    "poder": {
+      "1": 1815,
+      "30": 2922,
+      "10": 2142,
+      "40": 3557,
+      "20": 2450,
+      "55": 4919
+    },
+    "puchero": 15,
+    "receta": {
+      "5": 10,
+      "9": 5
+    }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1003_0.png",
+    "nombreES": "Curri de Tomate \"Poder Solar\"",
+    "nombreEN": "Solar Power Tomato Curry",
+    "descripcion": "En su elaboración se emplean tomates madurados al sol.",
+    "poder": {
+      "1": 1943,
+      "30": 3128,
+      "10": 2293,
+      "40": 3808,
+      "20": 2623,
+      "55": 5266
+    },
+    "puchero": 15,
+    "receta": {
+      "7": 10,
+      "11": 5
+    }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1015_1.png",
+    "nombreES": "Curri de Tortilla Jugosa",
+    "nombreEN": "Melty Omelette Curry",
+    "descripcion": "La tortilla de este curri está cocinada en su punto y se deshace en la boca.",
+    "poder": {
+      "1": 2009,
+      "30": 3234,
+      "10": 2371,
+      "40": 3938,
+      "20": 2712,
+      "55": 5444
+    },
+    "puchero": 16,
+    "receta": {
+      "8": 10,
+      "7": 6
+    }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1009.png",
+    "nombreES": "Estofado de Patata",
+    "nombreEN": "Soft Potato Chowder",
+    "descripcion": "Su densa textura se logra hirviendo las patatas hasta que se deshacen.",
+    "poder": {
+      "1": 3089,
+      "30": 4973,
+      "10": 3645,
+      "40": 6054,
+      "20": 4170,
+      "55": 8371
+    },
+    "puchero": 22,
+    "receta": {
+      "2": 10,
+      "10": 8,
+      "13": 4
+    }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1016_0.png",
+    "nombreES": "Curri de Habas \"Corpulencia\"",
+    "nombreEN": "Bulk Up Bean Curry",
+    "descripcion": "Un plato enorme que aporta todos los nutrientes para ganar corpulencia.",
+    "poder": {
+      "1": 3274,
+      "30": 5271,
+      "10": 3863,
+      "40": 6417,
+      "20": 4420,
+      "55": 8873
+    },
+    "puchero": 26,
+    "receta": {
+      "3": 12,
+      "5": 6,
+      "11": 4,
+      "8": 4
+    }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1006_1.png",
+    "nombreES": "Curri de Setas \"Espora\"",
+    "nombreEN": "Spore Mushroom Curry",
+    "descripcion": "Curri que adormece con la misma eficacia que el movimiento Espora.",
+    "poder": {
+      "1": 4041,
+      "30": 6506,
+      "10": 4768,
+      "40": 7920,
+      "20": 5455,
+      "55": 10951
+    },
+    "puchero": 23,
+    "receta": {
+      "13": 14,
+      "10": 9
+    }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1007.png",
+    "nombreES": "Curri \"Bomba Huevo\"",
+    "nombreEN": "Egg Bomb Curry",
+    "descripcion": "Un plato para los más pequeños, y preparado con mucho amor.",
+    "poder": {
+      "1": 4523,
+      "30": 7282,
+      "10": 5337,
+      "40": 8865,
+      "20": 6106,
+      "55": 12257
+    },
+    "puchero": 35,
+    "receta": {
+      "4": 12,
+      "1": 11,
+      "8": 8,
+      "10": 4
+    }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1017_0.png",
+    "nombreES": "Guiso de Maíz \"Flexibilidad\"",
+    "nombreEN": "Limber Corn Stew",
+    "descripcion": "Guiso suave y cremoso con un toque dulce por la leche y el maíz.",
+    "poder": {
+      "1": 4670,
+      "30": 7519,
+      "10": 5511,
+      "40": 9153,
+      "20": 6305,
+      "55": 12656
+    },
+    "puchero": 30,
+    "receta": {
+      "16": 14,
+      "2": 8,
+      "10": 8
+    }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1005.png",
+    "nombreES": "Curri de Puerro Picante",
+    "nombreEN": "Spicy Leek Curry",
+    "descripcion": "El dulzor del puerro caramelizado equilibra el picante de la salsa.",
+    "poder": {
+      "1": 5900,
+      "30": 9499,
+      "10": 6962,
+      "40": 11564,
+      "20": 7965,
+      "55": 15989
+    },
+    "puchero": 32,
+    "receta": {
+      "14": 14,
+      "6": 10,
+      "11": 8
+    }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1013_1.png",
+    "nombreES": "Curri Ninja",
+    "nombreEN": "Ninja Curry",
+    "descripcion": "Se dice que este curri a base de tofu es el preferido de los ninjas.",
+    "poder": {
+      "1": 6159,
+      "30": 9916,
+      "10": 7268,
+      "40": 12072,
+      "20": 8315,
+      "55": 16691
+    },
+    "puchero": 38,
+    "receta": {
+      "3": 15,
+      "5": 9,
+      "14": 9,
+      "13": 5
+    }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1002.png",
+    "nombreES": "Curri de Cola a la Parrilla",
+    "nombreEN": "Grilled Tail Curry",
+    "descripcion": "El sabor de la cola eleva el plato a nuevas cotas de exquisitez.",
+    "poder": {
+      "1": 7483,
+      "30": 12048,
+      "10": 8830,
+      "40": 14667,
+      "20": 10102,
+      "55": 20279
+    },
+    "puchero": 34,
+    "receta": {
+      "15": 8,
+      "11": 25
+    }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1004.png",
+    "nombreES": "Curri Cremoso \"Comesueños\"",
+    "nombreEN": "Dream Eater Butter Curry",
+    "descripcion": "Curri elaborado con ingredientes de propiedades relajantes.",
+    "poder": {
+      "1": 9010,
+      "30": 14506,
+      "10": 10632,
+      "40": 17660,
+      "20": 12164,
+      "55": 24417
+    },
+    "puchero": 55,
+    "receta": {
+      "10": 18,
+      "7": 15,
+      "12": 12,
+      "2": 10
+    }
+  },
+  {
+    "imagen": "https://www.pokexperto.net/pokemonsleep/objetos/cooking_food_1018_0.png",
+    "nombreES": "Curri Keema de Maíz \"Infierno\"",
+    "nombreEN": "Inferno Corn Keema Curry",
+    "descripcion": "Tras la inicial dulzura del maíz se pasa a niveles infernales de picante.",
+    "poder": {
+      "1": 13690,
+      "30": 22041,
+      "10": 16154,
+      "40": 26832,
+      "20": 18482,
+      "55": 37100
+    },
+    "puchero": 77,
+    "receta": {
+      "11": 27,
+      "5": 24,
+      "16": 14,
+      "6": 12
+    }
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "0",
+    "nombreES": "Nombre Español",
+    "nombreEN": "Nombre Inglés",
+    "descripcion": "Descripción",
+    "poder": "Poder",
+    "venta": "Venta"
+  },
+  {
+    "id": "1",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/7/79/latest/20231015030016/Manzana_selecta_Sleep.png",
+    "nombreES": "Manzana Selecta",
+    "nombreEN": "Fancy Apple",
+    "descripcion": "Especialmente seleccionada por su forma y lustre perfectos.",
+    "poder": "90",
+    "venta": "4 "
+  },
+  {
+    "id": "2",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20231019021737/Leche_Mu-mu_Sleep.png",
+    "nombreES": "Leche\nMu-mu",
+    "nombreEN": "Moomoo Milk",
+    "descripcion": "Leche de alto valor nutritivo que restaura la energía de los Pokémon.",
+    "poder": "98",
+    "venta": "4 "
+  },
+  {
+    "id": "3",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/b/be/latest/20231019022531/Soja_Verdegal_Sleep.png",
+    "nombreES": "Soja Verdegal",
+    "nombreEN": "Greengrass Soybeans",
+    "descripcion": "Variedad de Isla Verdegal fácil de preparar e ideal para entrenar.",
+    "poder": "100",
+    "venta": "4 "
+  },
+  {
+    "id": "4",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/e/e1/latest/20231019021847/Miel_Sleep.png",
+    "nombreES": "Miel",
+    "nombreEN": "Honey",
+    "descripcion": "Miel de dulce aroma recolectada por los Pokémon.",
+    "poder": "101",
+    "venta": "4 "
+  },
+  {
+    "id": "5",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/d/d9/latest/20231019021527/Fiambre_vegetariano_Sleep.png",
+    "nombreES": "Fiambre Vegetariano",
+    "nombreEN": "Bean Sausage",
+    "descripcion": "Elaborado a base de habas, hace las delicias de los Pokémon.",
+    "poder": "103",
+    "venta": "4 "
+  },
+  {
+    "id": "6",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/0/03/latest/20231019022035/Jengibre_Sleep.png",
+    "nombreES": "Jengibre",
+    "nombreEN": "Warming Ginger",
+    "descripcion": "Hace entrar en calor a quien lo ingiere como ningún otro ingrediente.",
+    "poder": "109",
+    "venta": "4 "
+  },
+  {
+    "id": "7",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/8/83/latest/20231019022116/Siestomate_Sleep.png",
+    "nombreES": "Siestomate",
+    "nombreEN": "Snoozy Tomato",
+    "descripcion": "Tomate de color rojo intenso, ideal para dormir como un tronco.",
+    "poder": "110",
+    "venta": "4 "
+  },
+  {
+    "id": "8",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/5/56/latest/20231019021254/Huevo_selecto_Sleep.png",
+    "nombreES": "Huevo Selecto",
+    "nombreEN": "Fancy Egg",
+    "descripcion": "Ingrediente de alto valor nutritivo que combina con toda clase de aderezos.",
+    "poder": "115",
+    "venta": "5 "
+  },
+  {
+    "id": "9",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/9/91/latest/20231019021949/Aceite_puro_Sleep.png",
+    "nombreES": "Aceite Puro",
+    "nombreEN": "Pure Oil",
+    "descripcion": "Su versatilidad lo hace apto para su uso en una gran variedad de platos.",
+    "poder": "121",
+    "venta": "5 "
+  },
+  {
+    "id": "10",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/7/71/latest/20231019021340/Patata_Sleep.png",
+    "nombreES": "Patata",
+    "nombreEN": "Soft Potato",
+    "descripcion": "Su calidez y sabor suave reconfortan el cuerpo y la mente.",
+    "poder": "124",
+    "venta": "5 "
+  },
+  {
+    "id": "11",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/7/7d/latest/20231019021434/Hierba_picante_Sleep.png",
+    "nombreES": "Hierba Picante",
+    "nombreEN": "Fiery Herb",
+    "descripcion": "Hierba de color rojo, tan picante que espabila al instante a quien la prueba.",
+    "poder": "130",
+    "venta": "5 "
+  },
+  {
+    "id": "12",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/c/c0/latest/20231019022235/Cacao_relajante_Sleep.png",
+    "nombreES": "Cacao Relajante",
+    "nombreEN": "Soothing Cacao",
+    "descripcion": "Sus propiedades relajantes bien valen el tiempo que requiere procesar los granos de cacao.",
+    "poder": "151",
+    "venta": "6 "
+  },
+  {
+    "id": "13",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/7/7d/latest/20231019021210/Seta_sabrosa_Sleep.png?20231019021210",
+    "nombreES": "Seta Sabrosa",
+    "nombreEN": "Tasty Mushroom",
+    "descripcion": "Suculenta seta de textura jugosa e intenso sabor.",
+    "poder": "167",
+    "venta": "7 "
+  },
+  {
+    "id": "14",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/6/62/latest/20231019021111/Puerro_grueso_Sleep.png",
+    "nombreES": "Puerro Grueso",
+    "nombreEN": "Large Leek",
+    "descripcion": "No se sabe si este es el tipo de verdura que le gusta a Farfetch'd.",
+    "poder": "185",
+    "venta": "7 "
+  },
+  {
+    "id": "15",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/9/99/latest/20231019022334/Cola_Slowpoke_Sleep.png",
+    "nombreES": "Cola de Slowpoke",
+    "nombreEN": "Slowpoke Tail",
+    "descripcion": "Sabrosa cola de origen desconocido. Siempre vuelven a crecer al poco de desprenderse.",
+    "poder": "342",
+    "venta": "14 "
+  },
+  {
+    "id": "16",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/6/61/latest/20240125002111/Maíz_Verdegal_Sleep.png",
+    "nombreES": "Maíz Verdegal",
+    "nombreEN": "Greengrass Corn",
+    "descripcion": "Variedad de Isla Verdegal que destaca por su dulzor y puede comerse cruda.",
+    "poder": "140",
+    "venta": "6 "
+  }
+]
